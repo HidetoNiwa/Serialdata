@@ -1,0 +1,2 @@
+# Serialdata
+Serial通信データをVisualStudio2019で実行しファイルにログを残してくれるプログラム
